@@ -25,7 +25,7 @@ SECRET_KEY = 'l0**-!ulh%6*s6p^zhiikt_d%8jji&p7352ojcdkyj9(9a&-!$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost:3000','gamersbackf.herokuapp.com']
 
 
 # Application definition
